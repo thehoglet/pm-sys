@@ -28,10 +28,10 @@ meaning = "5-7 HCP with 2+ spades"
 meaning = "11-16 HCP with 3+ diamonds"
 
 [pass.1NT.pass.2H]
-meaning = "11-16 HCP with 6+ hearts"
+meaning = "11-16 HCP with 5+ spades 4+ hearts"
 
 [pass.1NT.pass.2NT]
-meaning = "14-16 HCP with 6 hearts and 4+ minor."
+meaning = "14-16 HCP with 6 spades and 4+ minor."
 notes = ["Opener has shown a 6-4 shape with a better than minimum hand."]
 
 [pass.1NT.pass.2NT.pass.3C]
@@ -50,13 +50,16 @@ meaning = "should show diamonds"
 meaning = "to play"
 
 [pass.1NT.pass.2S]
-meaning = "14-16 HCP with 6 hearts and 5 spades"
+meaning = "14-16 HCP with 6+ spades"
 
 [pass.1NT.pass.3C]
-meaning = "14-16 HCP with 5 hearts and 5 clubs"
+meaning = "14-16 HCP with 5 spades and 5 clubs"
 
 [pass.1NT.pass.3D]
-meaning = "14-16 HCP with 5 hearts and 5 diamonds"
+meaning = "14-16 HCP with 5 spades and 5 diamonds"
 
 [pass.1NT.pass.3H]
-meaning = "14-16 HCP with 6+ hearts (great suit)"
+meaning = "14-16 HCP with 5+ spades and 5+ hearts"
+
+[pass.1NT.pass.3S]
+meaning = "14-16 HCP with 6+ spades (great suit)"

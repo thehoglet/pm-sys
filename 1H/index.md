@@ -7,7 +7,7 @@ Note that all 17+ hands go through Gazzilli.<br/><br/>Priorities. Responder with
 | Rebid | Meaning |
 |---|---|
 | [1H&nbsp;1S](#1h1s) | Natural, F1 |
-| [1H&nbsp;1NT](#1h1nt) | Up to poor 12, NF |
+| [1H&nbsp;1NT](#1h1nt) | Up to poor 12, NF<br/><br/>After 1H P 1NT X, redouble now shows a 17+ hand and other bids or normal including 2C. |
 
 ## 1H&nbsp;1S
 
@@ -19,7 +19,7 @@ Natural, F1
 | [1H&nbsp;1S&nbsp;2C](#1h1s2c) | Gazzilli (17+ HCP)<br/><br/>If opener rebids 3NT after Gazzilli it shows 18-19 balanced, 5M332. 2NT rebid shows 15-17 balanced with 5M332 and the major suit is good.<br/><br/>If defenders double Gazzilli 2C responder passes showing OK clubs and redoubles to show 8+.<br/><br/>If defenders double 2D after Gazzilli then redouble is 16+ pass shows weak hand with 3 diamonds.<br/><br/>If they overcall Gazzilli then we bid normally. |
 | 1H&nbsp;1S&nbsp;2D | 11-16 HCP with 3+ diamonds |
 | 1H&nbsp;1S&nbsp;2H | 11-16 HCP with 6+ hearts |
-| 1H&nbsp;1S&nbsp;2S | 14-16 HCP with 6 hearts and 5 spades |
+| 1H&nbsp;1S&nbsp;2S | 14-16 HCP with 5+ hearts and 4+ spades |
 | [1H&nbsp;1S&nbsp;2NT](#1h1s2nt) | 14-16 HCP with 6 hearts and 4+ minor<br/><br/>Opener has shown a 6-4 shape with a better than minimum hand. |
 | 1H&nbsp;1S&nbsp;3C | 14-16 HCP with 5 hearts and 5 clubs |
 | 1H&nbsp;1S&nbsp;3D | 14-16 HCP with 5 hearts and 5 diamonds |
@@ -64,6 +64,8 @@ game forcing asking for the minor
 ## 1H&nbsp;1NT
 
 Up to poor 12, NF
+
+After 1H P 1NT X, redouble now shows a 17+ hand and other bids or normal including 2C.
 
 | Rebid | Meaning |
 |---|---|

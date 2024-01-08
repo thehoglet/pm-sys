@@ -16,12 +16,13 @@ Up to poor 12, NF
 |---|---|
 | [1S&nbsp;1NT&nbsp;2C](#1s1nt2c) | Gazzilli (17+ HCP)<br/><br/>If opener rebids 3NT after Gazzilli it shows 18-19 balanced, 5M332. 2NT rebid shows 15-17 balanced with 5M332 and the major suit is good.<br/><br/>If defenders double Gazzilli 2C responder passes showing OK clubs and redoubles to show 8+.<br/><br/>If defenders double 2D after Gazzilli then redouble is 16+ pass shows weak hand with 3 diamonds.<br/><br/>If they overcall Gazzilli then we bid normally. |
 | 1S&nbsp;1NT&nbsp;2D | 11-16 HCP with 3+ diamonds |
-| 1S&nbsp;1NT&nbsp;2H | 11-16 HCP with 6+ hearts |
-| 1S&nbsp;1NT&nbsp;2S | 14-16 HCP with 6 hearts and 5 spades |
-| [1S&nbsp;1NT&nbsp;2NT](#1s1nt2nt) | 14-16 HCP with 6 hearts and 4+ minor.<br/><br/>Opener has shown a 6-4 shape with a better than minimum hand. |
-| 1S&nbsp;1NT&nbsp;3C | 14-16 HCP with 5 hearts and 5 clubs |
-| 1S&nbsp;1NT&nbsp;3D | 14-16 HCP with 5 hearts and 5 diamonds |
-| 1S&nbsp;1NT&nbsp;3H | 14-16 HCP with 6+ hearts (great suit) |
+| 1S&nbsp;1NT&nbsp;2H | 11-16 HCP with 5+ spades 4+ hearts |
+| 1S&nbsp;1NT&nbsp;2S | 14-16 HCP with 6+ spades |
+| [1S&nbsp;1NT&nbsp;2NT](#1s1nt2nt) | 14-16 HCP with 6 spades and 4+ minor.<br/><br/>Opener has shown a 6-4 shape with a better than minimum hand. |
+| 1S&nbsp;1NT&nbsp;3C | 14-16 HCP with 5 spades and 5 clubs |
+| 1S&nbsp;1NT&nbsp;3D | 14-16 HCP with 5 spades and 5 diamonds |
+| 1S&nbsp;1NT&nbsp;3H | 14-16 HCP with 5+ spades and 5+ hearts |
+| 1S&nbsp;1NT&nbsp;3S | 14-16 HCP with 6+ spades (great suit) |
 
 ## 1S&nbsp;1NT&nbsp;2C
 
@@ -38,7 +39,7 @@ If opener rebids 3NT after Gazzilli it shows 18-19 balanced, 5M332. 2NT rebid sh
 
 ## 1S&nbsp;1NT&nbsp;2NT
 
-14-16 HCP with 6 hearts and 4+ minor.
+14-16 HCP with 6 spades and 4+ minor.
 
 Opener has shown a 6-4 shape with a better than minimum hand.
 

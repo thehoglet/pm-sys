@@ -4,6 +4,7 @@ notes = ["Note that all 17+ hands go through Gazzilli.", "Priorities. Responder 
 
 [pass.1NT]
 meaning = "Up to poor 12, NF"
+notes = ["After 1H P 1NT X, redouble now shows a 17+ hand and other bids or normal including 2C."]
 
 [pass.1NT.pass.1NT]
 meaning = "11-14 HCP balanced"
@@ -128,7 +129,7 @@ meaning = "should show diamonds"
 meaning = "to play"
 
 [pass.1S.pass.2S]
-meaning = "14-16 HCP with 6 hearts and 5 spades"
+meaning = "14-16 HCP with 5+ hearts and 4+ spades"
 
 [pass.1S.pass.3C]
 meaning = "14-16 HCP with 5 hearts and 5 clubs"
