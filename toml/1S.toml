@@ -6,12 +6,12 @@ notes = ["Note that all 17+ hands go through Gazzilli.", "Priorities. Responder 
 meaning = "Up to poor 12, NF"
 
 [pass.1NT.pass.2C]
-meaning = "Gazzilli (17+ HCP)"
+meaning = "Gazzilli (Weak with clubs or 17+ HCP. explained below)"
 notes = ["If opener rebids 3NT after Gazzilli it shows 18-19 balanced, 5M332. 2NT rebid shows 15-17 balanced with 5M332 and the major suit is good.", "If defenders double Gazzilli 2C responder passes showing OK clubs and redoubles to show 8+.", "If defenders double 2D after Gazzilli then redouble is 16+ pass shows weak hand with 3 diamonds.", "If they overcall Gazzilli then we bid normally."]
 
 [pass.1NT.pass.2C.pass.2D]
 meaning = "8+ HCP with any shape"
-rebid = "Opener either rebids their major showing the weak option or so 5 hearts and 4 clubs 11-14 any other bid 17+ GF."
+rebid = "Opener either rebids their major showing the weak option so 5+ spades and 4+ clubs 11-14 any other bid 17+ GF."
 
 [pass.1NT.pass.2C.pass.2H]
 meaning = "5-7 HCP with 5+ hearts"
