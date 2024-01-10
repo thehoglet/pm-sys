@@ -1,0 +1,19 @@
+open = "2D"
+meaning = "Weak"
+notes = ["Should comprise mostly of values in suit bid and not outside Aces and Kings.", "Applies to 2H and 2S opens."]
+
+[pass.2NT]
+meaning = "Asking"
+notes = ["Also applies after a weak jump shift, and a 2nd seat weak 2H/2S jump overcall."]
+
+[pass.2NT.pass.3C]
+meaning = "Minimum, poor suit"
+
+[pass.2NT.pass.3D]
+meaning = "Maximum, poor suit"
+
+[pass.2NT.pass.3H]
+meaning = "Minimum, good suit"
+
+[pass.2NT.pass.3S]
+meaning = "Maximum, good suit"

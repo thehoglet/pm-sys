@@ -1,0 +1,48 @@
+open = "1C"
+meaning = "Better minor"
+
+[pass.1D]
+meaning = "Natural, F1"
+
+[pass.1D.pass.1H]
+meaning = "(Nominally) F1"
+
+[pass.1D.pass.1H.pass.1S]
+meaning = "Natural"
+
+[pass.1D.pass.1H.pass.2S]
+meaning = "FSF, GF"
+
+[pass.1H]
+meaning = "Natural, F1"
+
+[pass.1H.pass.1NT]
+meaning = "12-14, balanced"
+
+[pass.1H.pass.1NT.pass.2C]
+meaning = "Invitational with 5+ cards in first bid suit or 4-4 in spades and hearts?"
+
+[pass.1H.pass.1NT.pass.2C.pass.2D]
+meaning = "Forced relay (followed by pass or invitational bid)"
+
+[pass.1H.pass.1NT.pass.2D]
+meaning = "Game forcing, artificial enquiry (shows either 5 hearts or 3 spades or both)"
+
+[pass.1H.pass.1NT.pass.2D.pass.2H]
+meaning = "three-card support"
+
+[pass.1H.pass.1NT.pass.2D.pass.2NT]
+meaning = "neither of the above"
+notes = ["3m - natural, suitable"]
+
+[pass.1H.pass.1NT.pass.2D.pass.2S]
+meaning = "four cards (denies three-card support)"
+
+[pass.2C]
+meaning = "Inverted, F1"
+
+[pass.2C.pass.2D]
+meaning = "12-14, balanced"
+
+[pass.2C.pass.2NT]
+meaning = "18-19, balanced"

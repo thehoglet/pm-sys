@@ -7,6 +7,10 @@ Note that all 17+ hands go through Gazzilli.<br/><br/>Priorities. Responder with
 | Rebid | Meaning |
 |---|---|
 | [1S&nbsp;1NT](#1s1nt) | Up to poor 12, NF |
+| [1S&nbsp;2NT](#1s2nt) | 4-card raise, GF |
+| 1S&nbsp;3C | Good 9 to poor 12 points, 3 card support<br/><br/>3 level suit bids below agreed suit are game tries and show values in the suit bid. |
+| 1S&nbsp;3D | 9-11 points, 4 card support<br/><br/>3 level suit bids below agreed suit are game tries and show values in the suit bid. |
+| 1S&nbsp;4C/4D/4H  | Double jumps are splinters with 9-12 pts (stronger hands bid 2NT to GF). |
 
 ## 1S&nbsp;1NT
 
@@ -57,5 +61,50 @@ game forcing asking for the minor
 |---|---|
 | 1S&nbsp;1NT&nbsp;2NT&nbsp;3D&nbsp;3H | should show clubs |
 | 1S&nbsp;1NT&nbsp;2NT&nbsp;3D&nbsp;3S | should show diamonds |
+
+## 1S&nbsp;2NT
+
+4-card raise, GF
+
+| Rebid | Meaning |
+|---|---|
+| [1S&nbsp;2NT&nbsp;3C](#1s2nt3c) | Any minimum |
+| [1S&nbsp;2NT&nbsp;3D](#1s2nt3d) | Balanced, extras |
+| 1S&nbsp;2NT&nbsp;3H/S/NT  | Shortage in C/D/oM and extras |
+| 1S&nbsp;2NT&nbsp;4C/D/H  | Good side suit, usually 5 cards and extras |
+
+## 1S&nbsp;2NT&nbsp;3C
+
+Any minimum
+
+| Rebid | Meaning |
+|---|---|
+| [1S&nbsp;2NT&nbsp;3C&nbsp;3D](#1s2nt3c3d) | Asks for shortage |
+| 1S&nbsp;2NT&nbsp;3C&nbsp;3H | cue<br/><br/>3NT - start cueing; serious slam interest |
+| 1S&nbsp;2NT&nbsp;3C&nbsp;3S | 5+ cards |
+| 1S&nbsp;2NT&nbsp;3C&nbsp;4C/D/H  | cues |
+| 1S&nbsp;2NT&nbsp;3C&nbsp;4S | nothing else |
+
+## 1S&nbsp;2NT&nbsp;3C&nbsp;3D
+
+Asks for shortage
+
+| Rebid | Meaning |
+|---|---|
+| 1S&nbsp;2NT&nbsp;3C&nbsp;3D&nbsp;3H/S/NT  | Shortage in C/D/oM respectively |
+| 1S&nbsp;2NT&nbsp;3C&nbsp;3D&nbsp;4C/D/H  | Natural, good suit |
+| 1S&nbsp;2NT&nbsp;3C&nbsp;3D&nbsp;4S | Nothing else |
+
+## 1S&nbsp;2NT&nbsp;3D
+
+Balanced, extras
+
+| Rebid | Meaning |
+|---|---|
+| 1S&nbsp;2NT&nbsp;3D&nbsp;3H | cue |
+| 1S&nbsp;2NT&nbsp;3D&nbsp;3S | slam interest |
+| 1S&nbsp;2NT&nbsp;3D&nbsp;3NT | serious slam try |
+| 1S&nbsp;2NT&nbsp;3D&nbsp;4C/D/H  | cue |
+| 1S&nbsp;2NT&nbsp;3D&nbsp;4S | Nothing else, barely GF |
 
 [Home](../index.md)

@@ -8,6 +8,10 @@ Note that all 17+ hands go through Gazzilli.<br/><br/>Priorities. Responder with
 |---|---|
 | [1H&nbsp;1S](#1h1s) | Natural, F1 |
 | [1H&nbsp;1NT](#1h1nt) | Up to poor 12, NF<br/><br/>After 1H P 1NT X, redouble now shows a 17+ hand and other bids or normal including 2C. |
+| [1H&nbsp;2NT](#1h2nt) | 4-card raise, GF |
+| 1H&nbsp;3C | Good 9 to poor 12 points, 3 card support<br/><br/>3 level suit bids below agreed suit are game tries and show values in the suit bid. |
+| 1H&nbsp;3D | 9-11 points, 4 card support<br/><br/>3 level suit bids below agreed suit are game tries and show values in the suit bid. |
+| 1H&nbsp;3S/4C/4D  | Double jumps are splinters with 9-12 pts (stronger hands bid 2NT to GF). |
 
 ## 1H&nbsp;1S
 
@@ -113,5 +117,50 @@ game forcing asking for the minor
 |---|---|
 | 1H&nbsp;1NT&nbsp;2NT&nbsp;3D&nbsp;3H | should show clubs |
 | 1H&nbsp;1NT&nbsp;2NT&nbsp;3D&nbsp;3S | should show diamonds |
+
+## 1H&nbsp;2NT
+
+4-card raise, GF
+
+| Rebid | Meaning |
+|---|---|
+| [1H&nbsp;2NT&nbsp;3C](#1h2nt3c) | Any minimum |
+| [1H&nbsp;2NT&nbsp;3D](#1h2nt3d) | Balanced, extras |
+| 1H&nbsp;2NT&nbsp;3H/S/NT  | Shortage in C/D/oM and extras |
+| 1H&nbsp;2NT&nbsp;4C/D  | Good side suit, usually 5 cards and extras |
+
+## 1H&nbsp;2NT&nbsp;3C
+
+Any minimum
+
+| Rebid | Meaning |
+|---|---|
+| [1H&nbsp;2NT&nbsp;3C&nbsp;3D](#1h2nt3c3d) | Asks for shortage |
+| 1H&nbsp;2NT&nbsp;3C&nbsp;3H | 5+ cards |
+| 1H&nbsp;2NT&nbsp;3C&nbsp;3S | cue<br/><br/>3NT - start cueing; serious slam interest |
+| 1H&nbsp;2NT&nbsp;3C&nbsp;4C/D  | cues |
+| 1H&nbsp;2NT&nbsp;3C&nbsp;4H | nothing else |
+
+## 1H&nbsp;2NT&nbsp;3C&nbsp;3D
+
+Asks for shortage
+
+| Rebid | Meaning |
+|---|---|
+| 1H&nbsp;2NT&nbsp;3C&nbsp;3D&nbsp;3H/S/NT  | Shortage in C/D/oM respectively |
+| 1H&nbsp;2NT&nbsp;3C&nbsp;3D&nbsp;4C/D  | Natural, good suit |
+| 1H&nbsp;2NT&nbsp;3C&nbsp;3D&nbsp;4H | Nothing else |
+
+## 1H&nbsp;2NT&nbsp;3D
+
+Balanced, extras
+
+| Rebid | Meaning |
+|---|---|
+| 1H&nbsp;2NT&nbsp;3D&nbsp;3H | slam interest |
+| 1H&nbsp;2NT&nbsp;3D&nbsp;3S | cue |
+| 1H&nbsp;2NT&nbsp;3D&nbsp;3NT | serious slam try |
+| 1H&nbsp;2NT&nbsp;3D&nbsp;4C/D  | cue |
+| 1H&nbsp;2NT&nbsp;3D&nbsp;4H | Nothing else, barely GF |
 
 [Home](../index.md)

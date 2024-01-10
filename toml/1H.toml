@@ -136,3 +136,69 @@ meaning = "14-16 HCP with 5 hearts and 5 diamonds"
 
 [pass.1S.pass.3H]
 meaning = "14-16 HCP with 6+ hearts (great suit)"
+
+[pass.2NT]
+meaning = "4-card raise, GF"
+
+[pass.2NT.pass.3C]
+meaning = "Any minimum"
+
+[pass.2NT.pass.3C.pass.3D]
+meaning = "Asks for shortage"
+
+[pass.2NT.pass.3C.pass.3D.pass."3H/S/NT "]
+meaning = "Shortage in C/D/oM respectively"
+
+[pass.2NT.pass.3C.pass.3D.pass."4C/D "]
+meaning = "Natural, good suit"
+
+[pass.2NT.pass.3C.pass.3D.pass.4H]
+meaning = "Nothing else"
+
+[pass.2NT.pass.3C.pass.3H]
+meaning = "5+ cards"
+
+[pass.2NT.pass.3C.pass.3S]
+meaning = "cue"
+notes = ["3NT - start cueing; serious slam interest"]
+
+[pass.2NT.pass.3C.pass."4C/D "]
+meaning = "cues"
+
+[pass.2NT.pass.3C.pass.4H]
+meaning = "nothing else"
+
+[pass.2NT.pass.3D]
+meaning = "Balanced, extras"
+
+[pass.2NT.pass.3D.pass.3H]
+meaning = "slam interest"
+
+[pass.2NT.pass.3D.pass.3NT]
+meaning = "serious slam try"
+
+[pass.2NT.pass.3D.pass.3S]
+meaning = "cue"
+
+[pass.2NT.pass.3D.pass."4C/D "]
+meaning = "cue"
+
+[pass.2NT.pass.3D.pass.4H]
+meaning = "Nothing else, barely GF"
+
+[pass.2NT.pass."3H/S/NT "]
+meaning = "Shortage in C/D/oM and extras"
+
+[pass.2NT.pass."4C/D "]
+meaning = "Good side suit, usually 5 cards and extras"
+
+[pass.3C]
+meaning = "Good 9 to poor 12 points, 3 card support"
+rebid = "3 level suit bids below agreed suit are game tries and show values in the suit bid."
+
+[pass.3D]
+meaning = "9-11 points, 4 card support"
+rebid = "3 level suit bids below agreed suit are game tries and show values in the suit bid."
+
+[pass."3S/4C/4D "]
+meaning = "Double jumps are splinters with 9-12 pts (stronger hands bid 2NT to GF)."
