@@ -19,7 +19,7 @@ Natural, F1
 
 | Rebid | Meaning |
 |---|---|
-| 1H&nbsp;1S&nbsp;1NT | 11-14 HCP balanced. |
+| [1H&nbsp;1S&nbsp;1NT](#1h1s1nt) | 11-14 HCP balanced. |
 | [1H&nbsp;1S&nbsp;2C](#1h1s2c) | Gazzilli (Weak with clubs or 17+ HCP. explained below)<br/><br/>If opener rebids 3NT after Gazzilli it shows 18-19 balanced, 5M332. 2NT rebid shows 15-17 balanced with 5M332 and the major suit is good.<br/><br/>If defenders double Gazzilli 2C responder passes showing OK clubs and redoubles to show 8+.<br/><br/>If defenders double 2D after Gazzilli then redouble is 16+ pass shows weak hand with 3 diamonds.<br/><br/>If they overcall Gazzilli then we bid normally. |
 | 1H&nbsp;1S&nbsp;2D | 11-16 HCP with 3+ diamonds |
 | 1H&nbsp;1S&nbsp;2H | 11-16 HCP with 6+ hearts |
@@ -28,6 +28,33 @@ Natural, F1
 | 1H&nbsp;1S&nbsp;3C | 14-16 HCP with 5 hearts and 5 clubs |
 | 1H&nbsp;1S&nbsp;3D | 14-16 HCP with 5 hearts and 5 diamonds |
 | 1H&nbsp;1S&nbsp;3H | 14-16 HCP with 6+ hearts (great suit) |
+
+## 1H&nbsp;1S&nbsp;1NT
+
+11-14 HCP balanced.
+
+| Rebid | Meaning |
+|---|---|
+| [1H&nbsp;1S&nbsp;1NT&nbsp;2C](#1h1s1nt2c) | Invitational with 5+ cards in bid suit or 4-4 in spades and hearts? |
+| [1H&nbsp;1S&nbsp;1NT&nbsp;2D](#1h1s1nt2d) | Game forcing, artificial enquiry (shows either 5 hearts or 3 spades or both) |
+
+## 1H&nbsp;1S&nbsp;1NT&nbsp;2C
+
+Invitational with 5+ cards in bid suit or 4-4 in spades and hearts?
+
+| Rebid | Meaning |
+|---|---|
+| 1H&nbsp;1S&nbsp;1NT&nbsp;2C&nbsp;2D | forced relay (Pass – Weak hand with 5+diamonds; 2H – 5+H, invitational, not suitable for any other bid (so 6H or 5H4D); 2S – 4S 5H invitational; 2N – 5H, balanced, invitational; 3C – 5H 4+C invitational (opener’s suit, so four clubs is sufficient); 3D – 5H 5D invitational (new suit, so 5-5 distribution necessary); 3NT – 5332, choice of games) |
+
+## 1H&nbsp;1S&nbsp;1NT&nbsp;2D
+
+Game forcing, artificial enquiry (shows either 5 hearts or 3 spades or both)
+
+| Rebid | Meaning |
+|---|---|
+| 1H&nbsp;1S&nbsp;1NT&nbsp;2D&nbsp;2H | three-card support |
+| 1H&nbsp;1S&nbsp;1NT&nbsp;2D&nbsp;2S | four cards (denies three-card support) |
+| 1H&nbsp;1S&nbsp;1NT&nbsp;2D&nbsp;2NT | neither of the above<br/><br/>3m - natural, suitable |
 
 ## 1H&nbsp;1S&nbsp;2C
 
@@ -137,7 +164,8 @@ Any minimum
 |---|---|
 | [1H&nbsp;2NT&nbsp;3C&nbsp;3D](#1h2nt3c3d) | Asks for shortage |
 | 1H&nbsp;2NT&nbsp;3C&nbsp;3H | 5+ cards |
-| 1H&nbsp;2NT&nbsp;3C&nbsp;3S | cue<br/><br/>3NT - start cueing; serious slam interest |
+| 1H&nbsp;2NT&nbsp;3C&nbsp;3S | cue |
+| 1H&nbsp;2NT&nbsp;3C&nbsp;3NT | start cueing; serious slam interest |
 | 1H&nbsp;2NT&nbsp;3C&nbsp;4C/D  | cues |
 | 1H&nbsp;2NT&nbsp;3C&nbsp;4H | nothing else |
 

@@ -73,6 +73,25 @@ meaning = "Natural, F1"
 [pass.1S.pass.1NT]
 meaning = "11-14 HCP balanced."
 
+[pass.1S.pass.1NT.pass.2C]
+meaning = "Invitational with 5+ cards in bid suit or 4-4 in spades and hearts?"
+
+[pass.1S.pass.1NT.pass.2C.pass.2D]
+meaning = "forced relay (Pass – Weak hand with 5+diamonds; 2H – 5+H, invitational, not suitable for any other bid (so 6H or 5H4D); 2S – 4S 5H invitational; 2N – 5H, balanced, invitational; 3C – 5H 4+C invitational (opener’s suit, so four clubs is sufficient); 3D – 5H 5D invitational (new suit, so 5-5 distribution necessary); 3NT – 5332, choice of games)"
+
+[pass.1S.pass.1NT.pass.2D]
+meaning = "Game forcing, artificial enquiry (shows either 5 hearts or 3 spades or both)"
+
+[pass.1S.pass.1NT.pass.2D.pass.2H]
+meaning = "three-card support"
+
+[pass.1S.pass.1NT.pass.2D.pass.2NT]
+meaning = "neither of the above"
+notes = ["3m - natural, suitable"]
+
+[pass.1S.pass.1NT.pass.2D.pass.2S]
+meaning = "four cards (denies three-card support)"
+
 [pass.1S.pass.2C]
 meaning = "Gazzilli (Weak with clubs or 17+ HCP. explained below)"
 notes = ["If opener rebids 3NT after Gazzilli it shows 18-19 balanced, 5M332. 2NT rebid shows 15-17 balanced with 5M332 and the major suit is good.", "If defenders double Gazzilli 2C responder passes showing OK clubs and redoubles to show 8+.", "If defenders double 2D after Gazzilli then redouble is 16+ pass shows weak hand with 3 diamonds.", "If they overcall Gazzilli then we bid normally."]
@@ -158,9 +177,11 @@ meaning = "Nothing else"
 [pass.2NT.pass.3C.pass.3H]
 meaning = "5+ cards"
 
+[pass.2NT.pass.3C.pass.3NT]
+meaning = "start cueing; serious slam interest"
+
 [pass.2NT.pass.3C.pass.3S]
 meaning = "cue"
-notes = ["3NT - start cueing; serious slam interest"]
 
 [pass.2NT.pass.3C.pass."4C/D "]
 meaning = "cues"

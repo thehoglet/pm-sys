@@ -23,7 +23,7 @@ Natural, F1
 | Rebid | Meaning |
 |---|---|
 | 1C&nbsp;1D&nbsp;1H&nbsp;1S | Natural |
-| 1C&nbsp;1D&nbsp;1H&nbsp;2S | FSF, GF |
+| 1C&nbsp;1D&nbsp;1H&nbsp;2S | FSF, forcing to 2NT |
 
 ## 1C&nbsp;1H
 

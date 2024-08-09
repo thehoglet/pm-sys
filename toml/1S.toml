@@ -84,7 +84,9 @@ meaning = "Nothing else"
 
 [pass.2NT.pass.3C.pass.3H]
 meaning = "cue"
-notes = ["3NT - start cueing; serious slam interest"]
+
+[pass.2NT.pass.3C.pass.3NT]
+meaning = "start cueing; serious slam interest"
 
 [pass.2NT.pass.3C.pass.3S]
 meaning = "5+ cards"

@@ -80,8 +80,9 @@ Any minimum
 | Rebid | Meaning |
 |---|---|
 | [1S&nbsp;2NT&nbsp;3C&nbsp;3D](#1s2nt3c3d) | Asks for shortage |
-| 1S&nbsp;2NT&nbsp;3C&nbsp;3H | cue<br/><br/>3NT - start cueing; serious slam interest |
+| 1S&nbsp;2NT&nbsp;3C&nbsp;3H | cue |
 | 1S&nbsp;2NT&nbsp;3C&nbsp;3S | 5+ cards |
+| 1S&nbsp;2NT&nbsp;3C&nbsp;3NT | start cueing; serious slam interest |
 | 1S&nbsp;2NT&nbsp;3C&nbsp;4C/D/H  | cues |
 | 1S&nbsp;2NT&nbsp;3C&nbsp;4S | nothing else |
 
