@@ -20,7 +20,7 @@ Natural, F1
 | Rebid | Meaning |
 |---|---|
 | [1H&nbsp;1S&nbsp;1NT](#1h1s1nt) | 11-14 HCP balanced. |
-| [1H&nbsp;1S&nbsp;2C](#1h1s2c) | Gazzilli (Weak with clubs or 17+ HCP. explained below)<br/><br/>If opener rebids 3NT after Gazzilli it shows 18-19 balanced, 5M332. 2NT rebid shows 15-17 balanced with 5M332 and the major suit is good.<br/><br/>If defenders double Gazzilli 2C responder passes showing OK clubs and redoubles to show 8+.<br/><br/>If defenders double 2D after Gazzilli then redouble is 16+ pass shows weak hand with 3 diamonds.<br/><br/>If they overcall Gazzilli then we bid normally. |
+| [1H&nbsp;1S&nbsp;2C](#1h1s2c) | Gazzilli (Weak with clubs or 17+ HCP. explained below)<br/><br/>If opener rebids 3NT after Gazzilli it shows 18-19 balanced to play. 2NT rebid shows 18+ balanced with interesting in investigating other possible contracts so responder should shape out.<br/><br/>After 1H P 1NT * redouble now shows a 17+ hand and other bids or normal including 2C.<br/><br/>If defenders double Gazzilli 2C responder passes showing OK clubs and redoubles to show 8+. If defenders double 2D after Gazzilli then redouble is 16+ pass shows weak hand with 3 diamonds.<br/><br/>If they overcall Gazzilli then we bid normally. |
 | 1H&nbsp;1S&nbsp;2D | 11-16 HCP with 3+ diamonds |
 | 1H&nbsp;1S&nbsp;2H | 11-16 HCP with 6+ hearts |
 | 1H&nbsp;1S&nbsp;2S | 14-16 HCP with 5+ hearts and 4+ spades |
@@ -60,7 +60,7 @@ Game forcing, artificial enquiry (shows either 5 hearts or 3 spades or both)
 
 Gazzilli (Weak with clubs or 17+ HCP. explained below)
 
-If opener rebids 3NT after Gazzilli it shows 18-19 balanced, 5M332. 2NT rebid shows 15-17 balanced with 5M332 and the major suit is good.<br/><br/>If defenders double Gazzilli 2C responder passes showing OK clubs and redoubles to show 8+.<br/><br/>If defenders double 2D after Gazzilli then redouble is 16+ pass shows weak hand with 3 diamonds.<br/><br/>If they overcall Gazzilli then we bid normally.
+If opener rebids 3NT after Gazzilli it shows 18-19 balanced to play. 2NT rebid shows 18+ balanced with interesting in investigating other possible contracts so responder should shape out.<br/><br/>After 1H P 1NT * redouble now shows a 17+ hand and other bids or normal including 2C.<br/><br/>If defenders double Gazzilli 2C responder passes showing OK clubs and redoubles to show 8+. If defenders double 2D after Gazzilli then redouble is 16+ pass shows weak hand with 3 diamonds.<br/><br/>If they overcall Gazzilli then we bid normally.
 
 | Rebid | Meaning |
 |---|---|
@@ -100,7 +100,7 @@ After 1H P 1NT X, redouble now shows a 17+ hand and other bids or normal includi
 
 | Rebid | Meaning |
 |---|---|
-| [1H&nbsp;1NT&nbsp;2C](#1h1nt2c) | Gazzilli (Weak with clubs or 17+ HCP. explained below)<br/><br/>If opener rebids 3NT after Gazzilli it shows 18-19 balanced, 5M332. 2NT rebid shows 15-17 balanced with 5M332 and the major suit is good.<br/><br/>If defenders double Gazzilli 2C responder passes showing OK clubs and redoubles to show 8+.<br/><br/>If defenders double 2D after Gazzilli then redouble is 16+ pass shows weak hand with 3 diamonds.<br/><br/>If they overcall Gazzilli then we bid normally. |
+| [1H&nbsp;1NT&nbsp;2C](#1h1nt2c) | Gazzilli (Weak with clubs or 17+ HCP. explained below)<br/><br/>If opener rebids 3NT after Gazzilli it shows 18-19 balanced to play. 2NT rebid shows 18+ balanced with interesting in investigating other possible contracts so responder should shape out.<br/><br/>After 1H P 1NT * redouble now shows a 17+ hand and other bids or normal including 2C.<br/><br/>If defenders double Gazzilli 2C responder passes showing OK clubs and redoubles to show 8+. If defenders double 2D after Gazzilli then redouble is 16+ pass shows weak hand with 3 diamonds.<br/><br/>If they overcall Gazzilli then we bid normally. |
 | 1H&nbsp;1NT&nbsp;2D | 11-16 HCP with 3+ diamonds |
 | 1H&nbsp;1NT&nbsp;2H | 11-16 HCP with 6+ hearts |
 | 1H&nbsp;1NT&nbsp;2S | 14-16 HCP with 6 hearts and 5 spades |
@@ -113,7 +113,7 @@ After 1H P 1NT X, redouble now shows a 17+ hand and other bids or normal includi
 
 Gazzilli (Weak with clubs or 17+ HCP. explained below)
 
-If opener rebids 3NT after Gazzilli it shows 18-19 balanced, 5M332. 2NT rebid shows 15-17 balanced with 5M332 and the major suit is good.<br/><br/>If defenders double Gazzilli 2C responder passes showing OK clubs and redoubles to show 8+.<br/><br/>If defenders double 2D after Gazzilli then redouble is 16+ pass shows weak hand with 3 diamonds.<br/><br/>If they overcall Gazzilli then we bid normally.
+If opener rebids 3NT after Gazzilli it shows 18-19 balanced to play. 2NT rebid shows 18+ balanced with interesting in investigating other possible contracts so responder should shape out.<br/><br/>After 1H P 1NT * redouble now shows a 17+ hand and other bids or normal including 2C.<br/><br/>If defenders double Gazzilli 2C responder passes showing OK clubs and redoubles to show 8+. If defenders double 2D after Gazzilli then redouble is 16+ pass shows weak hand with 3 diamonds.<br/><br/>If they overcall Gazzilli then we bid normally.
 
 | Rebid | Meaning |
 |---|---|

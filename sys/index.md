@@ -120,7 +120,7 @@ Triple jumps below game (of by implication the agreed suit) show a void. Any tri
 
 ## Two-way checkback
 
-1 any – 1 any – 1NT (12-14pts, balanced)
+This is an example: - 1C – 1H – 1NT (12-14pts, balanced)
 
 2C – Invitational with 5+ cards in bid suit or 4-4 in spades and hearts?
 
@@ -140,6 +140,8 @@ Triple jumps below game (of by implication the agreed suit) show a void. Any tri
 
   - 3NT – 5332, choice of games
 
+Clearly after 1C – 1D – 1NT we play two=way check back for both majors and responses are appropriate to first two bids not as above so looking for 4 card majors to play in 2D responder bids 2C knowing 2D is a forced response. Similarly in all other 1 any, 1 any 1NT sequences. Note two-way check back always shows interest in not just NT as 2NT over 1NT is natural in these sequences.
+
 2D – Game forcing, artificial enquiry (shows either 5 hearts or 3 spades or both)
 
 - 2H – three-card support
@@ -149,6 +151,8 @@ Triple jumps below game (of by implication the agreed suit) show a void. Any tri
 - 2NT – neither of the above
 
 - 3m – natural, suitable
+
+Clearly after 1 any – 1 any – 1NT we play two-way check back including 2D so opener has to adopt to the sequence to respond.
 
 ## 2NT rebid
 
@@ -407,3 +411,7 @@ Opener bids 6M with second round control and makes a descriptive bid with first 
 ## Over 1NT and 2NT open or rebid after 2C
 
 4C is Gerber, 4D is minors slam try and 4M is to play
+
+## DOPI and ROPI after 4NT
+
+After our RKCB 4NT is overcalled or doubled we play next bid possible so double/redouble is 0/3, pass is 1, then 2, 2+Q, etc.

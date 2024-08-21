@@ -8,7 +8,7 @@ notes = ["After 1H P 1NT X, redouble now shows a 17+ hand and other bids or norm
 
 [pass.1NT.pass.2C]
 meaning = "Gazzilli (Weak with clubs or 17+ HCP. explained below)"
-notes = ["If opener rebids 3NT after Gazzilli it shows 18-19 balanced, 5M332. 2NT rebid shows 15-17 balanced with 5M332 and the major suit is good.", "If defenders double Gazzilli 2C responder passes showing OK clubs and redoubles to show 8+.", "If defenders double 2D after Gazzilli then redouble is 16+ pass shows weak hand with 3 diamonds.", "If they overcall Gazzilli then we bid normally."]
+notes = ["If opener rebids 3NT after Gazzilli it shows 18-19 balanced to play. 2NT rebid shows 18+ balanced with interesting in investigating other possible contracts so responder should shape out.", "After 1H P 1NT * redouble now shows a 17+ hand and other bids or normal including 2C.", "If defenders double Gazzilli 2C responder passes showing OK clubs and redoubles to show 8+. If defenders double 2D after Gazzilli then redouble is 16+ pass shows weak hand with 3 diamonds.", "If they overcall Gazzilli then we bid normally."]
 
 [pass.1NT.pass.2C.pass.2D]
 meaning = "8+ HCP with any shape (see below)"
@@ -94,7 +94,7 @@ meaning = "four cards (denies three-card support)"
 
 [pass.1S.pass.2C]
 meaning = "Gazzilli (Weak with clubs or 17+ HCP. explained below)"
-notes = ["If opener rebids 3NT after Gazzilli it shows 18-19 balanced, 5M332. 2NT rebid shows 15-17 balanced with 5M332 and the major suit is good.", "If defenders double Gazzilli 2C responder passes showing OK clubs and redoubles to show 8+.", "If defenders double 2D after Gazzilli then redouble is 16+ pass shows weak hand with 3 diamonds.", "If they overcall Gazzilli then we bid normally."]
+notes = ["If opener rebids 3NT after Gazzilli it shows 18-19 balanced to play. 2NT rebid shows 18+ balanced with interesting in investigating other possible contracts so responder should shape out.", "After 1H P 1NT * redouble now shows a 17+ hand and other bids or normal including 2C.", "If defenders double Gazzilli 2C responder passes showing OK clubs and redoubles to show 8+. If defenders double 2D after Gazzilli then redouble is 16+ pass shows weak hand with 3 diamonds.", "If they overcall Gazzilli then we bid normally."]
 
 [pass.1S.pass.2C.pass.2D]
 meaning = "8+ HCP with any shape"
